@@ -17,5 +17,8 @@
   "homepage": "https://github.com/smeads/avyup#readme",
   "devDependencies": {
     "node-sass": "^4.7.2"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
   }
 }
