@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/smeads/avyup/issues"
   },
-  "homepage": "https://github.com/smeads/avyup#readme"
+  "homepage": "https://github.com/smeads/avyup#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
 }
